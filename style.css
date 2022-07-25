@@ -13,3 +13,12 @@
 .category.three {
   background-color: #4289ff;
 }
+
+.subscribe {
+  background-color: #feeae9;
+  height: 70vh;
+}
+
+.subscribe div .btn {
+  background-color: #ff136f;
+}
